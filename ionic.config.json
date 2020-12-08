@@ -1,0 +1,7 @@
+{
+  "name": "what_to_eat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
